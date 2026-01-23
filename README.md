@@ -37,8 +37,8 @@ cantonese-perception-experiment/
 │   ├── sw.js           # Service Worker for caching
 │   ├── characters.json # Character list (UPDATE THIS)
 │   └── audio/          # Audio files (ADD YOUR 75 .wav FILES)
-│       ├── 1.wav
-│       ├── 2.wav
+│       ├── 1.m4a
+│       ├── 2.m4a
 │       └── ...
 ├── src/
 │   └── index.ts        # Cloudflare Worker backend
