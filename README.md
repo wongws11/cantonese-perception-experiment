@@ -36,7 +36,7 @@ cantonese-perception-experiment/
 │   ├── experiment.js   # Experiment logic
 │   ├── sw.js           # Service Worker for caching
 │   ├── characters.json # Character list (UPDATE THIS)
-│   └── audio/          # Audio files (ADD YOUR 75 .wav FILES)
+│   └── audio/          # Audio files (ADD YOUR AUDIO FILES)
 │       ├── 1.m4a
 │       ├── 2.m4a
 │       └── ...
