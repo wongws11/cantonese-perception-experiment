@@ -12,7 +12,7 @@ This project is a modern web port of an experiment originally written in MATLAB 
 
 The original study, conducted in 2018, collected data from 13 subjects. Due to technical limitations at the time, the experiment was restricted to on-site, in-person participation.
 
-This repository revisits that code, utilising modern web technologies to demonstrate how similar linguistic research can now be conducted remotely. While I do not intend to rerun the experiment, this project serves as a proof of concept—showcasing the potential of current web standards and AI-assisted coding (LLMs) to facilitate remote data collection.
+This repository revisits that code, utilising modern web technologies to demonstrate how similar linguistic research can now be conducted remotely. While I do not intend to rerun the experiment, this project serves as a proof of concept showcasing the potential of current web standards and AI-assisted coding (LLMs) to facilitate remote data collection.
 
 I hope this repository serves as a useful template for students and researchers looking to migrate their experiments to an online format.
 
