@@ -195,7 +195,7 @@ npx wrangler d1 execute cantonese-perception-experiment --command "SELECT trial_
 
 ### Audio not loading
 
-- Check file naming: `1.wav`, `2.wav`, etc.
+- Check file naming: `1.m4a`, `2.m4a`, etc.
 - Verify files are in `public/audio/`
 - Check browser console for errors
 
